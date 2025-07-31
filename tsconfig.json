@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "noEmitOnError": true,
+    "target": "es3",
+    "strict": true
+  },
+  "files": [
+    
+  ]
+
+}
