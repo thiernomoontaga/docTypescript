@@ -2,11 +2,9 @@
   "compilerOptions": {
     "outDir": "dist",
     "noEmitOnError": true,
-    "target": "es3",
+    "target": "esnext",
     "strict": true
   },
-  "files": [
-    
-  ]
+
 
 }
