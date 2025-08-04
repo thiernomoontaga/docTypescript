@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir":"/src"
+  },
+
+  "exemple d'exclusion de fichier": 
+  {
+  "exclude": [
+    "**/*.test.ts"
+  ]
+  },
+  "exemple d'exclution .dev.ts":{
+    "exclude": ["**/*.dev.ts","node_modules"]
+  }
+  
+  
+}
+
+
+
